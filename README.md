@@ -5,7 +5,7 @@ pip install requests <br>
 pip install colorama <br>
 pip install urllib3 <br>
 pip install os<br>
-git clone https://github/adiganzzxd/brutesql.git<br>
+git clone https://github.com/adiganzzxd/brutesql.git<br>
 cd brutesql<br>
 python brutesql.py<br>
 # Informasi 
