@@ -1,5 +1,5 @@
 # brutesql
-BruteSQL adalah tools Yang berfungsi untuk Melakukan bruteforce dengan metode sqli queri 
+BruteSQL adalah tools Yang berfungsi untuk Melakukan bruteforce pada halaman login dengan metode sqli queri 
 # Informasi 
 tools masih dalam tahap proses pengembangan.
 # Penggunaan 
