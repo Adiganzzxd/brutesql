@@ -1,7 +1,7 @@
 # brutesql
 BruteSQL adalah tools Yang berfungsi untuk Melakukan bruteforce pada halaman login dengan metode sqli queri 
 # installing
-pip install requests
+pip install requests <br>
 pip install colorama
 pip install urllib3
 pip install os
